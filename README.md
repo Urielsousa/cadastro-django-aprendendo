@@ -1,2 +1,2 @@
 # cadastro-django-aprendendo
-projeto de django inciante
+projeto de django iniciante 
