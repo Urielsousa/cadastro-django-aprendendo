@@ -1,4 +1,4 @@
-# Projeto de cadastro de ususarios 
+# Projeto de cadastro de usuários 
 O projeto é uma aplicação web desenvolvida em Dajango para cadastro de listagem de usuários  
 Projeto criado para fins de aprendizado com Django.
 
