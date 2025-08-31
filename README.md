@@ -8,25 +8,25 @@ Projeto criado para fins de aprendizado com Django.
 
 # como rodar o projeto 
  
-1 instale as dependencias do Django 
+1. instale as dependencias do Django 
 pip install django 
 
-2 Use o comando ls no terminal para saber em qual pasta você está
+2. Use o comando ls no terminal para saber em qual pasta você está
 
-3 navegue até a pasta do projeto (onde esta o arquivo manage.py)
+3. navegue até a pasta do projeto (onde esta o arquivo manage.py)
 cd projeto_cad_ usuario 
 
-4 execute o servidor de desenvolvimento: 
+4. execute o servidor de desenvolvimento: 
 python ./manage.py runserver 
 
-5 acesse 'http://127.0.0.1:8000/' no navegador
+5. acesse 'http://127.0.0.1:8000/' no navegador
 
 # Arquivos principais do projeto
-- 'models.py' : Define o modelo de 'Usuario'.
-- 'views.py': Lógica para o cadastro e listagem de usuários.
-- 'home.html': Pagina de cadastro.
-- 'usuarios.html': Pagina de Listagem.
-- 'url.py': Rotas do projeto.
+- models.py : Define o modelo de 'Usuario'.
+- views.py: Lógica para o cadastro e listagem de usuários.
+- home.html: Pagina de cadastro.
+- usuarios.html: Pagina de Listagem.
+- url.py: Rotas do projeto.
   
 # Obs: 
 - O banco de dados utilizado é o SQLITE (padrão do Django).
